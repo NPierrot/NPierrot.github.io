@@ -1,3 +1,9 @@
+---
+layout: single
+title: '예제 151 ~ 160 코딩'
+---
+
+
 # 예제 151
 # 현재 디렉터리 확인하고 바꾸기 (os.getcwd, os.chdir)
 """
